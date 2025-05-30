@@ -1,3 +1,4 @@
+#rtyu
 <?php require 'db.php'; ?>  <!-- Include MongoDB connection file -->
 <!DOCTYPE html>
 <html>
